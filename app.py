@@ -3,10 +3,11 @@ from password import password
 import ssl 
 import smtplib 
 
+# COLOCAR EMAIL QUE IRA ENVIAR
 email_sender = ''
 email_password = password
 
-
+# COLOCAR EMAIL QUE IRA RECEBER
 email_receiver = ''
 
 # ASSUNTO
